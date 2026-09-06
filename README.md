@@ -16,8 +16,8 @@
 
 | # | Project | Description |
 |---|---------|-------------|
-| 1 | [Personal Portfolio](#-personal-portfolio) | Who I am & what I do |
-| 2 | [Res-Review](#-res-review) | Student accommodation reviews (Namibia) |
+| 1 | [Personal Portfolio](https://wytee.netlify.app) | Who I am & what I do |
+| 2 | [Res-Review](https://resreview.netlify.app) | Student accommodation reviews (Namibia) |
 
 ---
 
