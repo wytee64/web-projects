@@ -43,6 +43,6 @@
 
 <div align="center">
 
-*More projects coming soon — stay tuned!*
+*More projects coming soon*
 
 </div>
