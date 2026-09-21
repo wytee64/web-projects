@@ -1,0 +1,20 @@
+{
+  "name": "web-projects",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "homepage": "https://github.com/wytee64/web-projects#readme",
+  "bugs": {
+    "url": "https://github.com/wytee64/web-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wytee64/web-projects.git"
+  },
+  "license": "ISC",
+  "author": "wytee64",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

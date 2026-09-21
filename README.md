@@ -4,7 +4,7 @@
 
 **A collection of things I've built for the web**
 
-![Projects](https://img.shields.io/badge/projects-5-blueviolet?style=for-the-badge)
+![Projects](https://img.shields.io/badge/projects-6-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 ![Hosted on](https://img.shields.io/badge/hosted%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -18,9 +18,11 @@
 |---|---------|-------------|
 | 1 | [Personal Portfolio](https://wytee.netlify.app) | Who I am & what I do |
 | 2 | [Res-Review](https://resreview.netlify.app) | Student accommodation reviews (Namibia) |
-| 3 | [DiscTrack](https://disctrackk.netlify.app/)) | Artist logging App's website |
+| 3 | [DiscTrack](https://disctrackk.netlify.app/) | Artist logging App's website |
 | 4 | [BDevin](https://bdevin.netlify.app/) | Portfolio for our freelance software studio |
 | 5 | [BibTee](https://bibtee.netlify.app/) | website for my bible reading app |
+| 6 | [Bible Year Plan](https://bibleyearplan.netlify.app/) | Reading the bible in 365 days |
+
 
 
 
@@ -65,11 +67,22 @@
 `Type: Portfolio` · `Hosting: Netlify`
 
 ---
+
 ### BibTee
 
 > A website for the BibTee bible reading app, with a link to download it and all the information about the app.
 
 🔗 **Live:** [bibtee.netlify.app](https://bibtee.netlify.app/)
+
+`Type: App's website` · `Hosting: Netlify`
+
+---
+
+### Bible Year Plan
+
+> A website that displays a plan for reading the bible in a year by reading atleast one book or more every week.
+
+🔗 **Live:** [bibleyearplan.netlify.app](https://bibleyearplan.netlify.app/)
 
 `Type: App's website` · `Hosting: Netlify`
 
