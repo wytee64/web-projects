@@ -50,7 +50,7 @@
 
 > A website for accessing my android mobile app that i use for artist logging when i explore music.
 
-🔗 **Live:** [bdevin.netlify.app](https://bdevin.netlify.app/)
+🔗 **Live:** [disctrackk.netlify.app](https://disctrackk.netlify.app/)
 
 `Type: App's website` · `Hosting: Netlify`
 
